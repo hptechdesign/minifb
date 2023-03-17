@@ -4,8 +4,8 @@
 
 #define kUnused(var)    (void) var
 
-#define WIDTH      960
-#define HEIGHT     640
+#define WIDTH      1024
+#define HEIGHT     768
 static unsigned int g_buffer[WIDTH * HEIGHT];
 static bool         g_active = true;
 
